@@ -10,5 +10,3 @@ Combining historical bike rental usage with weather data for forecasting demand 
 - Dennis Lau
 - Danny Phang
 - Wai Yi 
-
-hi
